@@ -4,7 +4,7 @@ El programa es una simulación de un esquema  de comunicación basado en el mode
 
 Componentes Simulados:
 
-Fuente de Información: La fuente de información es el robot explorador Perseverance 21, el cual es enviado a una misión para registrar datos geológicos del planeta Marte. Los datos que recopila son:
+Fuente de Información: La fuente de información es el robot explorador Perseverance 2.1, el cual es enviado a una misión para registrar datos geológicos del planeta Marte. Los datos que recopila son:
 
 -Objeto: Aquí se le dará una lista que tiene opciones y aleatoriamente elegirá una y en la simulación representa que eso detecto el robot.
 Estas son las opciones: "mineral", "roca", "cristal", "hielo", "agua", "meteorito", "objeto no identificado".
