@@ -8,7 +8,9 @@ Fuente de Información: La fuente de información es el robot explorador Perseve
 
 -Objeto: Aquí se le dará una lista que tiene opciones y aleatoriamente elegirá una y en la simulación representa que eso detecto el robot.
 Estas son las opciones: "mineral", "roca", "cristal", "hielo", "agua", "meteorito", "objeto no identificado".
+
 -Ubicación: Recopila aleatoriamente una cantidad de un rango entre -1000 y 1000, para las coordenadas x,y,z. 
+
 -Imágenes: Este es un atributo más en la simulación pero no será modificado realmente como los dos anteriores ya que solo es una lista que contiene estas opciones: "imagen1.jpg", "imagen2.jpg".
 
 La función “recopilar_datos()” es quien se encargará del proceso. 
@@ -41,8 +43,11 @@ Finalmente, se simula la recepción de la información decodificada por parte de
 Notas:
 Al final se hace una comparación de la información de los cambios que tuvo durante el proceso. Para esto se visualiza:
 -Datos originales.
+
 -Datos transmitidos.
+
 -Datos con ruido.
+
 -Datos receptados.
 
 El programa utiliza valores y probabilidades de ruido predefinidos para simplificar la simulación.
