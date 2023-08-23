@@ -42,6 +42,7 @@ Finalmente, se simula la recepción de la información decodificada por parte de
 
 Notas:
 Al final se hace una comparación de la información de los cambios que tuvo durante el proceso. Para esto se visualiza:
+
 -Datos originales.
 
 -Datos transmitidos.
