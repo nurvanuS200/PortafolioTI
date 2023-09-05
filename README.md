@@ -27,6 +27,8 @@ Para la transmisión de los datos a través de un canal, se asume una representa
 
 El ruido se introduce en la función canal. La simulación del ruido consiste en cambiar bits aleatoriamente, para esto se establece un porcentaje de 1% para objeto y 5% para la ubicación. Esos porcentajes son bajos para no perder por completo la información correcta.
 
+Calcula el tiempo de propagación de la fibra óptica.
+
 La función “fibra_optica(datos_transmitidos)” es quien de representar el canal por fibra óptica para la transmisión y del proceso para incluir ruido.
 
 Receptor: 
