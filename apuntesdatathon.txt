@@ -1,0 +1,21 @@
+Tengo un dataframe en python que tiene el nombre de estas columnas que se llama fuerza_trabajo
+Pais, Sexo, Año y Valor
+Eliminar las filas donde en la columna "Sexo" este "Sex: Total"
+
+Ahora en la columa "Sexo", reemplazar "Sex: Male" por "Hombres" y "Sex: Females" por "Mujeres"
+
+sumar el valor total de las columnas  "Mujeres"  en
+
+de la columa "Valor" suma el total de aquellos que digan "Mujeres" de la columa "Sexo", es decir que se unan en una sola fila, respectivo a su año, la columa "Años" tiene variables en su filas del 2013 al 2023
+
+Sumar el valor de la columa "Valor" de las columns "Sexo" en las que su fila diga "Mujeres" y así para cada año del 2013 al 2023
+
+---
+lo que quiero es: Sumar el valor de la columa "Valor" de las columns "Sexo" en las que su fila diga "Mujeres" y en otra fila Sumar el valor de la columa "Valor" de las columns "Sexo" en las que su fila diga "Hombres" pero que este agrupado por la columna "Año" es decir sumar las que tenga el mismo sexo pero agrupada por año
+
+-Eliminar columnas innecesarias
+-Elimino filas inncesarias como "Sex:Total"
+-Reemplazo nombres de filas para que esten en español 
+- 
+
+
